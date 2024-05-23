@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    color: aliceblue;
+    background-color: black;
+}
+
+
+.nav__list{
+    display: flex;
+    gap: 800px;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+
+}
+.nav__left a{
+    text-decoration: none;
+    color: rgba(147, 147, 147, 0.442);
+    padding-left: 30px;
+
+}
+
+.sp{
+    color: gold;
+
+}
+button{
+    border: 1px solid gold;
+    color: gold;
+    background-color: transparent;
+    padding: 15px 30px;
+    margin: 20px;
+}
+.button{
+    border: 1px solid gold;
+    color: rgb(0, 0, 0);
+    background-color: gold;
+    padding: 15px 30px;
+    margin: 20px;
+}
+.content{
+    text-align: center;
+    font-size: 900;
+    max-width: 1600px;
+    
+}
+.p{
+    font-size: 900;
+}
+.img{
+    padding-left: 200px;
+}
+.img2{
+    padding-left: 30px;
+}
+.h{
+    text-align: center;
+}
+.from{
+    padding-left: 100px;
+
+}
+h1{
+    color: #FFAE2B;
+
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
